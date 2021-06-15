@@ -1,0 +1,90 @@
+.main_footer {
+	background: #16222A;
+	background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
+	background: linear-gradient(59deg, #3A6073, #16222A);
+	color: white;
+	margin-top: 20px;
+	padding-top: 20px;
+	height: 70vh;
+}
+
+a {
+	text-decoration: none;
+}
+
+.footer-pad h5 {
+	
+	font-weight: lighter;
+	font-size: 15px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+.about_x4fit {
+	color: #ccc;
+}
+
+ul.social-network {
+	list-style: none;
+	display: inline;
+	margin-left: 0 !important;
+	padding: 0;
+}
+
+ul.social-network li {
+	display: inline;
+	margin: 0 5px;
+}
+
+.iconFooter {
+	background-color: #F9F9F9;
+	border-radius: 45%;
+	height: 25px;
+	width: 25px;
+	color: #AAA !important;
+	text-align: center;
+	display: inline-block;
+	transition: all 1s;
+}
+
+.iconFooter:hover, .iconFooter:active{
+background-color: #27798f;
+color:#27798f;
+
+}
+
+.copy {
+	margin-top: 120px;
+	font-size: 12px;
+	padding-top: 20px;
+	border-top: 1px solid #AAA;
+}
+
+.h5_footer_contact {
+	margin-bottom: 15px;
+	font-weight: lighter;
+	font-size: 15px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+.a_footer {
+	color: #ffffff;
+}
+
+#footer{
+margin-top: 40px;
+display: block;
+}
+
+#btn-footer{
+	transition: all 1s !important;
+}
+#btn-footer:hover, #btn-footer:active{
+	
+	background-color: #de6600 !important;
+	margin-left:-10px;
+	border: none;
+	width: 180px !important;
+	
+}
